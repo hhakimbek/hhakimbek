@@ -3,7 +3,11 @@
 
 - 🔭 I’m not currently working
 
-- 📝 Know about my blogs on [https://t.me/hakimbekdev](https://t.me/hakimbekdev)
+- 📝 Know about all my blogs on [https://t.me/hakimbekdev](https://t.me/hakimbekdev)
+
+- 🎬 Programming video tutorials on YouTube [https://www.youtube.com/@telbadev](https://www.youtube.com/@telbadev)
+
+- 🌌 I write articles here [https://t.me/telbadev](https://t.me/telbadev)
 
 - 📫 How to reach me **hakimbekdeveloper@gmail.com**
 
