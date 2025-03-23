@@ -61,7 +61,7 @@
   </a>
   <a href="https://tirikchilik.uz/hakimbek" 
      style="background: white; display: inline-block; padding: 5px; border-radius: 10px;">
-    <img src="https://raw.githubusercontent.com/telbadev/telbadev/main/my_logo.png" height="50" width="190" border: 5px solid #555; />
+    <img src="https://raw.githubusercontent.com/telbadev/telbadev/main/my_logo.png" height="70" width="190" border: 5px solid #555; />
   </a>
 </p>
 
