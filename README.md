@@ -55,15 +55,16 @@
 ###
 
 <h3 align="left">Support:</h3>
-<p>  
-  <a href="https://www.buymeacoffee.com/hakimbekdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/hakimbekdev" /></a>
+<p style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://www.buymeacoffee.com/hakimbekdev"> 
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
+  </a>
+  <a href="https://tirikchilik.uz/hakimbek" style="background: white; border-radius: 5px; padding: 5px;">
+    <img src="https://raw.githubusercontent.com/telbadev/telbadev/main/logo-28859fe5.svg" height="50" alt="Support me" />
+  </a>
 </p>
-<p>  
-  <a href="https://tirikchilik.uz/hakimbek">
-  <img src="https://raw.githubusercontent.com/telbadev/telbadev/main/logo-28859fe5.svg" height="50" alt="Support me" />
-</a>
 
-</p>
+
   <br>
   <br>
 
