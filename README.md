@@ -60,8 +60,8 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
   </a>
   <a href="https://tirikchilik.uz/hakimbek" 
-     style="background: white; display: inline-block; padding: 5px; border-radius: 5px;">
-    <img src="https://raw.githubusercontent.com/telbadev/telbadev/main/my_logo.png" height="50" width="210" />
+     style="background: white; display: inline-block; padding: 5px; border-radius: 10px;">
+    <img src="https://raw.githubusercontent.com/telbadev/telbadev/main/my_logo.png" height="50" width="190" border: 5px solid #555; />
   </a>
 </p>
 
