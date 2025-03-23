@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **hakimbekdeveloper@gmail.com**
 
-- 📄 Know about my experiences [https://t.me/hakimbekdev/773](https://t.me/hakimbekdev/773)
-
 
 <div align="center">
 </div>
@@ -57,7 +55,18 @@
 ###
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/hakimbekdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/hakimbekdev" /></a></p><br><br>
+<p>  
+  <a href="https://www.buymeacoffee.com/hakimbekdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/hakimbekdev" /></a>
+  <a href="https://www.buymeacoffee.com/hakimbekdev">
+  <svg width="150" height="50" viewBox="0 0 150 50" xmlns="http://www.w3.org/2000/svg">
+    <rect width="150" height="50" rx="10" ry="10" fill="#FFDD00"/>
+    <text x="50%" y="50%" font-size="16" font-weight="bold" fill="black" text-anchor="middle" dy=".3em">Support Me</text>
+  </svg>
+</a>
+
+</p>
+  <br>
+  <br>
 
 ###
 
