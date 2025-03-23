@@ -59,12 +59,10 @@
   <a href="https://www.buymeacoffee.com/hakimbekdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/hakimbekdev" /></a>
 </p>
 <p>  
-  <a href="https://www.buymeacoffee.com/hakimbekdev">
-  <svg width="150" height="50" viewBox="0 0 150 50" xmlns="http://www.w3.org/2000/svg">
-    <rect width="150" height="50" rx="10" ry="10" fill="#FFDD00"/>
-    <text x="50%" y="50%" font-size="16" font-weight="bold" fill="black" text-anchor="middle" dy=".3em">Support Me</text>
-  </svg>
+  <a href="https://tirikchilik.uz/hakimbek">
+  <img src="https://raw.githubusercontent.com/telbadev/telbadev/main/logo-28859fe5.svg" height="50" alt="Support me" />
 </a>
+
 </p>
   <br>
   <br>
