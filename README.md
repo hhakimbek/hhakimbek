@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hakimbek</h1>
 <h3 align="center">Flutter Mobile Developer from Bukhara in Uzbekistan</h3>
 
-- 🔭 I’m currently working on **Bilimdon**
+- 🔭 I’m not currently working
 
-- 📝 I regularly write articles on [https://t.me/hakimbekdev](https://t.me/hakimbekdev)
+- 📝 Know about my blogs on [https://t.me/hakimbekdev](https://t.me/hakimbekdev)
 
 - 📫 How to reach me **hakimbekdeveloper@gmail.com**
 
