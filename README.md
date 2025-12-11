@@ -79,8 +79,8 @@
 <br clear="both">
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/telbadev/count.svg?"  />
-</div>
+</div> -->
 
 ###
