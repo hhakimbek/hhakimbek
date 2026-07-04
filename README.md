@@ -39,7 +39,7 @@
 
 <h3 align="left">Connections</h3>
 <div align="left">
-  <a href="https://www.youtube.com/@telbadev" target="_blank">
+  <a href="https://www.youtube.com/@hhakimbek" target="_blank">
     <img src="https://img.shields.io/badge/Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/hakimbekdev" target="_blank">
