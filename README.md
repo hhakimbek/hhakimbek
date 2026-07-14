@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hakimbek</h1>
-<h3 align="center">Flutter Mobile Developer from Bukhara in Uzbekistan</h3>
+<h3 align="center">Flutter Mobile Developer from Buxoro in Özbekıston</h3>
 
 - 🔭 I’m not currently working
 
